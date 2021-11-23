@@ -119,6 +119,7 @@ cc_library {
 cc_binary {
     name: "curl",
     defaults: ["curl_common_defaults"],
+    system_ext_specific: true,
     srcs: [
         "src/*.c",
         "lib/dynbuf.c",
