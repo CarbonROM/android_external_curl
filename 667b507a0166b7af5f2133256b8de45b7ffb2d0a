@@ -1,4 +1,5 @@
 {
   "pushCert": "certificate version 0.1\npusher Christian Oder \u003cmyself5@carbonrom.org\u003e 1707941342 +0100\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_external_curl\nnonce 1707941342-EDD436DB26351DE5A72C6FC75CCBC36DDC2F4FA1\n\n0000000000000000000000000000000000000000 667b507a0166b7af5f2133256b8de45b7ffb2d0a refs/for/cr-11.0%topic\u003dT_asb_2024-01,submit\n-----BEGIN PGP SIGNATURE-----\n\niQJKBAABCAA0FiEEAeKysoG6T9uCVbCUU4O8v8DvjyIFAmXNHd4WHG15c2VsZjVA\nY2FyYm9ucm9tLm9yZwAKCRBTg7y/wO+PIq9JD/9VH9+XUHS10jC+dLeFHPV5Zf7v\ne2L2+vFgTr+QMqpneEcFh9mWHElVCoqoxfG0mY9wFht5tsMswNEsaMmVnu2BlgfK\nyZIG5nc+OGYSs5st4EBfbvBU00DT31UvUlWIcx3rnzkSpwoRsyu4Efk/nsgxTisk\nl3/F3wnMZH3m8adProqkQVYp7IejZyklIfMYPdOwNlXmQdL6iUF5l4NJsAieLjKL\neMGlcZuv2XqMRmZh+4RyDSgWgrfn6sJrjqblETJsaTIVW5DAvfHtXB6OsuzsKrFh\nE1TNCh2tp9j5gFWZhcGMRiCDx9UuNd5qPaIcsjWCrqt3tBcvnKJKgeMm9wRZcHpT\nONGxzh9tAvM0ckXOLHZcjgh3ydiCB301UQYMtzflNP5gIuIJVOPlC2AG4DApWap0\nFDgT/8Rop3TflQ/uDbb5B8SkHRLu7jUvtoLLhLJtmXZLvtDiNoi5o52CSPOn6Gau\nQlyEEiji90fuWDg8Atl6dl+MHHv+tCFDvfrMxXx0K8s2BQs5K2VJwT5dgeIA322D\nBx6utcfKtHiYxozBDQ6thrSBY1YVGSG4tHs0eHQ+uVuJcTJ7+qWpPHEtQNg2G8K6\nuxlZPAxAMahpTfZFkUPEl4DtI5WIW9qjqec92bAxUBCWO6sAW6tow1WD5+d7RJ9T\n/lLUGkSJ1RMYlhC+pg\u003d\u003d\n\u003d/Yuv\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [],
+  "submitRequirementResults": []
 }
